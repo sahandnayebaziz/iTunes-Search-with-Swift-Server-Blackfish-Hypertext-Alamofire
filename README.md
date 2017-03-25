@@ -64,3 +64,9 @@ static func getSearch(req: Blackfire.Request, res: Response) -> Void {
  }
 
 ```
+
+---
+
+I love using Node.js and I love using Swift. I haven't yet made a server with Swift, but trying this out today felt pretty good, so I just wanted to share this example to show how little code it takes to make something that does something.
+
+This example uses [Blackfire](https://github.com/elliottminns/blackfire), a minimal web framework inspired by express, [Hypertext](https://github.com/sahandnayebaziz/Hypertext), a small library for type-safe HTML, and [Alamofire](https://github.com/Alamofire/Alamofire), the beloved HTTP library.
